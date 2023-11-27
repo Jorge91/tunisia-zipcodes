@@ -1,2 +1,2 @@
-# tunisia zipcodes dataset
-Tunisia zipcodes with coordinates. Obtained from multiple sources, so some data might be missing
+# Tunisia zipcodes dataset
+Tunisia zipcodes/postal codes with coordinates. Obtained from multiple sources, so some data might be missing
